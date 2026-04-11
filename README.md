@@ -1,5 +1,7 @@
 # RatumnScanner Project
 
+**此项目已基本完结！后续每月更新一次左右，无大版本更新**
+
 RatumnScanner Project is a new generic translation pen hardware project, it use Rockchip RV1106G series SoC.
 
 Ratumn翻译笔项目是一个新的、划时代的开源翻译笔硬件项目。本项目提供了一个基于RV1106G系处理器的硬件设计参考，使用嘉立创EDA设计
